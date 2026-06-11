@@ -32,9 +32,9 @@ const seeCamping: CampsiteConfig = {
 
   pillars: [
     {
-      title: "Eigener Naturbadestrand",
-      text: "Direkter Seezugang am Westufer: über 20.000 m² Badefläche mit Liegewiese unter altem Baumbestand, gepflegt vom Betriebspersonal.",
-      image: { src: `${IMG}/gallery-ccf8fe7a18.webp`, alt: "Liegewiese und Naturbadestrand des Seecamping am Wallersee" },
+      title: "Liegewiese am Westufer",
+      text: "Über 20.000 m² Badefläche: die eigene Liegewiese unter altem Baumbestand reicht bis an den Wallersee — direkter Seezugang und gepflegt vom Betriebspersonal.",
+      image: { src: `${IMG}/gallery-ccf8fe7a18.webp`, alt: "Liegewiese unter alten Bäumen am Westufer des Wallersees beim Seecamping" },
     },
     {
       title: "Baden & Wassersport",
@@ -102,7 +102,7 @@ const seeCamping: CampsiteConfig = {
     heading: "Dein Chalet am Wallersee",
     headingEmphasis: "am Wallersee",
     intro:
-      "Wähle Zeitraum und Personen — die Chalets am Strand fragst du unverbindlich an, die Betriebsleitung meldet sich persönlich.",
+      "Wähle Zeitraum und Personen — die Chalets fragst du unverbindlich an, die Betriebsleitung meldet sich persönlich.",
     pricesArePlaceholder: false,
     priceNote: "ab-Preise pro Nacht je Chalet (bis zu 4 Personen) · Stand laut Website, bitte bei der Buchung bestätigen",
     highlight: {
