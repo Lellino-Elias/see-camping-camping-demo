@@ -14,8 +14,7 @@ const seeCamping: CampsiteConfig = {
   slug: "see-camping",
   ort: "Zell am Wallersee",
   region: "Salzburg",
-  theme: "alpin",
-  heroVariant: "left",
+  heroVariant: "center",
   brandKind: "Camping & Chalets",
   see: "Wallersee",
   regionLong: "Salzburger Seenland · Salzburg · Österreich",
@@ -117,7 +116,7 @@ const seeCamping: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.918764, lng: 13.164471 },
+    coords: { lat: 47.922749, lng: 13.14719 },
     tel: "Kontakt per E-Mail",
     telHref: "mailto:info@see-camping.at",
     mail: "info@see-camping.at",
